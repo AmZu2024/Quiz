@@ -13,6 +13,7 @@
  **Motivering:** Frågan testar om studenten vet vilken fas som inleder en programutvecklingscykel. De andra alternativen representerar senare faser i processen.
 
 
+
 **Fråga 2:** Vilken metod fokuserar på att snabbt utveckla en fungerande version av programmet för att få feedback och förbättra den över tid?
 
 - [ ] Vattenfallsmodellen 
@@ -21,6 +22,7 @@
 - [x] Agil utveckling 
 
  **Motivering:** Frågan undersöker studentens förståelse för Agil utveckling, som betonar snabb feedback och kontinuerlig förbättring. De andra alternativen är metoder som inte fokuserar på den här typen av snabb iteration.
+
  
 
  **Fråga 3:** Vad är Scrum inom mjukvaruutveckling?
@@ -45,6 +47,7 @@
 **Motivering:** If-satsen används ofta i tester för att kontrollera olika villkor eller ingångsvärden i en funktion. De andra alternativen används inte lika ofta för att testa specifika fall beroende på ingångsvärden.
 
 
+
 **Fråga 2:** Vilken klass i .NET används för att skapa en instans av ett objekt som simulerar ett beteende vid enhetstestning?
 
 - [x] Mock  
@@ -53,6 +56,7 @@
 - [ ] Exception  
 
 **Motivering:** Frågan testar förståelsen för användningen av Mock-klassen i enhetstestning för att skapa objekt som simulerar beteende av andra objekt (så kallad "mocking"). De andra alternativen har olika användningsområden i testning men används inte för att skapa mockobjekt.
+
 
 
 **Fråga 3:** Vilken metod används för att verifiera att ett test har lyckats genom att kontrollera om två värden är lika i ett enhetstest?
