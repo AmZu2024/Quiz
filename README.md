@@ -3,7 +3,7 @@
 ## Kursmål 1: Utvecklingsprocesserna vid programmering
 
 
-**Fråga 1:** Vilken av följande är en typisk första fas i programutvecklingsprocessen?
+**Fråga 1:** *Vilken av följande är en typisk första fas i programutvecklingsprocessen?*
 
 - [ ] Kodning 
 - [ ] Testning  
@@ -14,7 +14,7 @@
 
 
 
-**Fråga 2:** Vilken metod fokuserar på att snabbt utveckla en fungerande version av programmet för att få feedback och förbättra den över tid?
+**Fråga 2:** *Vilken metod fokuserar på att snabbt utveckla en fungerande version av programmet för att få feedback och förbättra den över tid?*
 
 - [ ] Vattenfallsmodellen 
 - [ ] Iterativ utveckling   
@@ -25,7 +25,7 @@
 
  
 
- **Fråga 3:** Vad är Scrum inom mjukvaruutveckling?
+ **Fråga 3:** *Vad är Scrum inom mjukvaruutveckling?*
 
 - [x] En agil arbetsmetod där utvecklingen sker i korta iterationer  
 - [ ] En modell där hela systemet designas i detalj innan kod skrivs    
