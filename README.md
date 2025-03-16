@@ -32,6 +32,7 @@
 - [ ] En process där utveckling sker utan planering eller struktur 
 - [ ] En metod som fokuserar enbart på testning och kvalitetssäkring
       
+**Motivering:** Den här frågan testar förståelsen av Scrum i jämförelse med andra utvecklingsmetoder.
 ----------------------------------------------------------------------------------------------
 
 ## Kursmål: Lämpliga kontrollstrukturer och klasser vid testning av applikationer
@@ -67,6 +68,42 @@
 - [ ] Assert.AreNotEqual()  
 
 **Motivering:** Frågan testar förståelsen för metoden som används för att jämföra två värden och bekräfta att de är lika under ett test. Assert.Equals() är den mest direkta metoden för detta, medan de andra alternativen används för andra ändamål.
+----------------------------------------------------------------------------------------------
+
+## Kursmål: Testdriven utveckling (TDD)
+
+**Fråga 1:** Vad är det första steget i TDD?
+
+- [ ] Implementera den faktiska funktionen  
+- [x] Skriva ett test som misslyckas  
+- [ ] Refaktorisera den befintliga koden  
+- [ ] Skriva tester efter att koden är klar  
+
+**Motivering:** Frågan testar förståelsen av TDD:s cykel. Ett vanligt misstag är att tro att man börjar med kod eller refaktorisering, men i TDD skriver man först ett test som misslyckas innan man implementerar funktionaliteten.
+
+
+
+**Fråga 2:** Varför används TDD i mjukvaruutveckling?
+
+- [ ] För att skriva färre tester och spara tid  
+- [x] För att förbättra kodens kvalitet och säkerställa att funktionalitet testas tidigt  
+- [ ] För att helt ersätta behovet av manuella tester  
+- [ ] För att snabba upp utvecklingsprocessen genom att hoppa över testning  
+
+**Motivering:** Den här frågan testar förståelsen av TDD:s syfte. Alternativen innehåller vanliga missuppfattningar, t.ex. att TDD skulle minska behovet av tester eller göra utvecklingen snabbare genom att hoppa över testning.
+
+
+
+**Fråga 3:** Vilken av följande beskrivningar stämmer bäst in på TDD?
+
+- [ ] Ett arbetssätt där tester skrivs efter att all kod är färdig  
+- [ ] En metod där man testar kod manuellt innan den skrivs  
+- [x] En teknik där tester skrivs innan kod, och koden utvecklas i små iterationer  
+- [ ] En metod där man endast testar kritiska delar av applikationen för att spara tid  
+
+**Motivering:** Frågan testar om studenten verkligen förstår hur TDD fungerar. De andra alternativen innehåller missuppfattningar, t.ex. att tester skrivs i efterhand (A), att man testar manuellt innan utveckling (B) eller att man bara testar vissa delar (D).
+----------------------------------------------------------------------------------------------
+
 
 
 
