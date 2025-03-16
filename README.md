@@ -85,25 +85,24 @@
 
 
 
-**Fråga 2:** *Varför används TDD i mjukvaruutveckling?*
+**Fråga 2:** *Varför används TDD?*
 
-- [ ] *För att skriva färre tester och spara tid*  
-- [x] *För att förbättra kodens kvalitet och säkerställa att funktionalitet testas tidigt*  
-- [ ] *För att helt ersätta behovet av manuella tester*  
-- [ ] *För att snabba upp utvecklingsprocessen genom att hoppa över testning*  
+- [ ] *För att skriva färre tester*  
+- [x] *För att förbättra kodkvalitet och testa tidigt*  
+- [ ] *För att helt ersätta manuella tester*  
+- [ ] *För att hoppa över tester *  
 
-**Motivering:** Den här frågan testar förståelsen av TDD:s syfte. Alternativen innehåller vanliga missuppfattningar, t.ex. att TDD skulle minska behovet av tester eller göra utvecklingen snabbare genom att hoppa över testning.
-
+**Motivering:** Frågan testar förståelsen av TDD. Falska påståenden som att TDD minskar testbehovet eller snabbar upp utvecklingen genom att hoppa över tester ingår som distraktorer.
 
 
 **Fråga 3:** *Vilken av följande beskrivningar stämmer bäst in på TDD?*
 
-- [ ] *Ett arbetssätt där tester skrivs efter att all kod är färdig*  
-- [ ] *En metod där man testar kod manuellt innan den skrivs*  
-- [x] *En teknik där tester skrivs innan kod, och koden utvecklas i små iterationer*  
-- [ ] *En metod där man endast testar kritiska delar av applikationen för att spara tid*  
+- [ ] *Tester skrivs efter koden*  
+- [ ] *Man testar koden utan automatiserade tester*  
+- [x] *Tester skrivs först, kod utvecklas i små steg*  
+- [ ] *Bara viktiga delar testas för att spara tid*  
 
-**Motivering:** Frågan testar om studenten verkligen förstår hur TDD fungerar. De andra alternativen innehåller missuppfattningar, t.ex. att tester skrivs i efterhand (A), att man testar manuellt innan utveckling (B) eller att man bara testar vissa delar (D).
+**Motivering:** Frågan säkerställer förståelsen av TDD. De andra alternativen bygger på vanliga missuppfattningar, t.ex. att tester skrivs i efterhand eller att endast vissa delar testas.
 
 ----------------------------------------------------------------------------------------------
 
@@ -149,23 +148,23 @@
 
 **Motivering:** Frågan testar förståelsen av inkapsling, en av de fyra grundpelarna i OOP. Distraktorerna representerar andra OOP-koncept: arv (C) och polymorfism (D), medan A är en vanlig missuppfattning.
 
-**Fråga 2:** *Vad är skillnaden mellan arv (inheritance) och gränssnitt (interface)?*
+**Fråga 2:** *Vad innebär arv (inheritance) i objektorienterad programmering?*
 
-- [x] *Arv gör att en klass kan ärva kod från en basklass, medan ett gränssnitt bara specificerar metoder utan implementation*
-- [ ] *Gränssnitt används bara för att skapa grafiska användargränssnitt*
-- [ ] *Arv används endast i statiska klasser, medan gränssnitt används i dynamiska klasser*
-- [ ] *Arv och gränssnitt är samma sak och används på exakt samma sätt*
+- [x] *En klass kan återanvända kod från en annan klass.*
+- [ ] *En klass kan ha flera basklasser samtidigt*
+- [ ] *En klass kan bara innehålla abstrakta metoder*
+- [ ] *En klass måste implementera alla metoder från en annan klass.*
 
-**Motivering:** Frågan testar förståelsen av arv vs. gränssnitt. Alternativ B är en vanlig missuppfattning om gränssnitt, C är felaktigt eftersom både arv och gränssnitt fungerar med dynamiska klasser, och D är direkt fel.
+**Motivering:**  Arv innebär att en klass kan återanvända kod från en basklass (A). B är fel eftersom C# inte stödjer multipelt arv. C förväxlar arv med abstrakta klasser, och D beskriver snarare ett gränssnitt än arv.
 
 **Fråga 3:** *Vad innebär polymorfism i objektorienterad programmering?*
 
-- [x] *Att en metod kan ha olika implementationer beroende på vilken klass som anropar den*
-- [ ] *Att en klass kan ha flera basklasser*
-- [ ] *Att en variabel alltid har samma typ och aldrig kan byta beteende*
-- [ ] *Att kod skrivs en gång och aldrig behöver ändras*
+- [x] *Samma metod kan ha olika implementationer i olika klasser*
+- [ ] *En klass kan ha flera basklasser*
+- [ ] *Een variabel alltid har samma typ och aldrig kan byta beteende*
+- [ ] *Kod skrivs en gång och aldrig behöver ändras*
 
-**Motivering:** Frågan testar förståelsen av polymorfism, en av de viktigaste principerna inom OOP. Alternativ B är fel eftersom C# inte stöder multipelt arv, alternativ C motsäger polymorfismens idé, och D är en missuppfattning.
+**Motivering:** Frågan testar förståelsen av polymorfism. Alternativ B är fel eftersom C# inte stöder multipelt arv, C motsäger polymorfismens princip, och D är en missuppfattning.
 
 ----------------------------------------------------------------------------------------------
 
