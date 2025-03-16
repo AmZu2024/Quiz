@@ -22,14 +22,13 @@
  **Motivering:** Frågan undersöker studentens förståelse för Agil utveckling, som betonar snabb feedback och kontinuerlig förbättring. De andra alternativen är metoder som inte fokuserar på den här typen av snabb iteration.
  
 ----------------------------------------------------------------------------------------------
- **Fråga 3:** Vilken metod fokuserar på att snabbt utveckla en fungerande version av programmet för att få feedback och förbättra den över tid?
+ **Fråga 3:** Vad är Scrum inom mjukvaruutveckling?
 
-- [ ] Vattenfallsmodellen 
-- [ ] Iterativ utveckling   
-- [ ] Big Bang.metoden  
-- [x] Agil utveckling 
+- [x] En agil arbetsmetod där utvecklingen sker i korta iterationer  
+- [ ] En modell där hela systemet designas i detalj innan kod skrivs    
+- [ ] En process där utveckling sker utan planering eller struktur 
+- [ ] En metod som fokuserar enbart på testning och kvalitetssäkring 
 
- **Motivering:** Frågan undersöker studentens förståelse för Agil utveckling, som betonar snabb feedback och kontinuerlig förbättring. De andra alternativen är metoder som inte fokuserar på den här typen av snabb iteration.
-
+ **Motivering:** Den här frågan testar förståelsen av Scrum i jämförelse med andra utvecklingsmetoder. 
 
 
