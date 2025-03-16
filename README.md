@@ -33,6 +33,7 @@
 - [ ] En metod som fokuserar enbart på testning och kvalitetssäkring
       
 **Motivering:** Den här frågan testar förståelsen av Scrum i jämförelse med andra utvecklingsmetoder.
+
 ----------------------------------------------------------------------------------------------
 
 ## Kursmål: Lämpliga kontrollstrukturer och klasser vid testning av applikationer
@@ -68,6 +69,7 @@
 - [ ] Assert.AreNotEqual()  
 
 **Motivering:** Frågan testar förståelsen för metoden som används för att jämföra två värden och bekräfta att de är lika under ett test. Assert.Equals() är den mest direkta metoden för detta, medan de andra alternativen används för andra ändamål.
+
 ----------------------------------------------------------------------------------------------
 
 ## Kursmål: Testdriven utveckling (TDD)
@@ -102,6 +104,7 @@
 - [ ] En metod där man endast testar kritiska delar av applikationen för att spara tid  
 
 **Motivering:** Frågan testar om studenten verkligen förstår hur TDD fungerar. De andra alternativen innehåller missuppfattningar, t.ex. att tester skrivs i efterhand (A), att man testar manuellt innan utveckling (B) eller att man bara testar vissa delar (D).
+
 ----------------------------------------------------------------------------------------------
 
 
