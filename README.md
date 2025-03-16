@@ -28,7 +28,8 @@
 - [ ] En modell där hela systemet designas i detalj innan kod skrivs    
 - [ ] En process där utveckling sker utan planering eller struktur 
 - [ ] En metod som fokuserar enbart på testning och kvalitetssäkring
-
+----------------------------------------------------------------------------------------------
+# Quiz
 **Kursmål:** Lämpliga kontrollstrukturer och klasser vid testning av applikationer
 
 **Fråga 1:** Vilken kontrollstruktur används mest effektivt för att testa olika fall av en funktion beroende på olika ingångsvärden i ett enhetstest?
