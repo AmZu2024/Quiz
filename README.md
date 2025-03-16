@@ -1,6 +1,6 @@
 # Quiz
 
-**Kursmål:** Utvecklingsprocesserna vid programmering
+## Kursmål: Utvecklingsprocesserna vid programmering
 -------------------------------------------------------------------------------------------------
 **Fråga 1:** Vilken av följande är en typisk första fas i programutvecklingsprocessen?
 
