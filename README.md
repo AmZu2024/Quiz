@@ -21,7 +21,8 @@
 
  **Motivering:** Frågan undersöker studentens förståelse för Agil utveckling, som betonar snabb feedback och kontinuerlig förbättring. De andra alternativen är metoder som inte fokuserar på den här typen av snabb iteration.
  
------------------------------------------------------------------------------------------------- **Fråga 3:** Vilken metod fokuserar på att snabbt utveckla en fungerande version av programmet för att få feedback och förbättra den över tid?
+----------------------------------------------------------------------------------------------
+ **Fråga 3:** Vilken metod fokuserar på att snabbt utveckla en fungerande version av programmet för att få feedback och förbättra den över tid?
 
 - [ ] Vattenfallsmodellen 
 - [ ] Iterativ utveckling   
